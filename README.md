@@ -2,8 +2,8 @@
 ### Backend Developer
 ### Enterprise Photo platform 📷
 ### Hi 👋
-- 🔭 I’m currently working on Java, Go and Python
-- 🌱 I’m currently learning Kotlin and JDK 11 for The new photo platform 
+- 🔭 I’m currently working on Java and sometimes Go and Python
+- 🌱 I’m currently learning JDK 17 and Spring Webflux for The new photo platform 
 <!--
 **changmink/changmink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
